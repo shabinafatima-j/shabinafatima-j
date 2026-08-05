@@ -5,13 +5,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=ECE+student+%40+Capital+University+of+Science+%26+Tech;Building+an+AI-powered+multi-agent+security+framework;MAESTRO+%2B+DIRF+%C2%B7+Speaker+Recognition+%C2%B7+Threat+Analysis" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=38B6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate+%40+CUST;Strong+interest+in+Cybersecurity;FYP%3A+Agentic+AI+%2B+Cybersecurity+%C2%B7+MAESTRO+%2B+DIRF" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/shabinafatima-j?label=Followers&style=for-the-badge&color=90E0EF&labelColor=0A192F"/>
-<img src="https://img.shields.io/github/stars/shabinafatima-j?label=Stars&style=for-the-badge&color=90E0EF&labelColor=0A192F"/>
-<img src="https://komarev.com/ghpvc/?username=shabinafatima-j&label=Profile%20Views&style=for-the-badge&color=90E0EF&labelColor=0A192F"/>
+<img src="https://img.shields.io/github/followers/shabinafatima-j?label=Followers&style=for-the-badge&color=B3E5FC&labelColor=0A192F"/>
+<img src="https://img.shields.io/github/stars/shabinafatima-j?label=Stars&style=for-the-badge&color=B3E5FC&labelColor=0A192F"/>
+<img src="https://komarev.com/ghpvc/?username=shabinafatima-j&label=Profile%20Views&style=for-the-badge&color=B3E5FC&labelColor=0A192F"/>
 
 </div>
 
@@ -23,9 +23,9 @@
 <tr>
 <td width="65%" valign="top">
 
-I'm **Shabina Fatima** — an undergraduate in **ECE / Engineering** at **Capital University of Science and Technology (CUST)**, with coursework spanning **AI, cybersecurity, and software engineering**.
+I'm **Shabina Fatima** — a **Computer Engineering** graduate from **Capital University of Science and Technology (CUST)**, with a strong interest in **cybersecurity**.
 
-Right now I'm building my **Final Year Project** — an AI-powered multi-agent security analysis and governance framework implementing the **MAESTRO** and **DIRF** frameworks, covering protocol governance (MCP · A2A · AP2/x402) and static security analysis. My pieces of it: the **Speaker Recognition Agent** and the **Security Analysis Agent**.
+My Final Year Project was in **agentic AI and cybersecurity** — an AI-powered multi-agent security analysis and governance framework implementing the **MAESTRO** and **DIRF** frameworks, covering protocol governance (MCP · A2A · AP2/x402) and static security analysis. My pieces of it: the **Speaker Recognition Agent** and the **Security Analysis Agent**.
 
 Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Workstation Pro + Kali Linux** to practice hands-on security work.
 
@@ -35,7 +35,7 @@ Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Wor
 
 </td>
 <td width="35%" valign="top" align="center">
-<img src="https://placehold.co/300x300/0A192F/90E0EF?text=your+photo&color=0A192F" width="220" style="border-radius:50%;" />
+<img src="display%20picture.jpg" width="220" style="border-radius:50%; object-fit:cover;" />
 </td>
 </tr>
 </table>
@@ -55,9 +55,9 @@ Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Wor
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabinafatima-j&theme=default&hide_border=true&background=0A192F&ring=00B4D8&fire=48CAE4&currStreakLabel=90E0EF&sideLabels=90E0EF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=90E0EF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabinafatima-j&theme=default&hide_border=true&background=0A192F&ring=38B6FF&fire=87CEEB&currStreakLabel=B3E5FC&sideLabels=B3E5FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B3E5FC" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabinafatima-j&bg_color=0A192F&color=90E0EF&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabinafatima-j&bg_color=0A192F&color=B3E5FC&line=38B6FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -85,16 +85,16 @@ Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Wor
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shabina-fatima-a9ab4b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=90E0EF"/></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=90E0EF"/></a>
-<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=90E0EF"/></a>
-<a href="https://tiktok.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/TikTok-0A192F?style=for-the-badge&logo=tiktok&logoColor=90E0EF"/></a>
-<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-0A192F?style=for-the-badge&logo=youtube&logoColor=90E0EF"/></a>
-<a href="mailto:shabina.fatima.j@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=90E0EF"/></a>
+<a href="https://www.linkedin.com/in/shabina-fatima-a9ab4b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=B3E5FC"/></a>
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=B3E5FC"/></a>
+<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=B3E5FC"/></a>
+<a href="https://tiktok.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/TikTok-0A192F?style=for-the-badge&logo=tiktok&logoColor=B3E5FC"/></a>
+<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-0A192F?style=for-the-badge&logo=youtube&logoColor=B3E5FC"/></a>
+<a href="mailto:shabina.fatima.j@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=B3E5FC"/></a>
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:00B4D8,100:0A192F&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:00B4D8,100:0A192F&height=120&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:38B6FF,100:0A192F&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:38B6FF,100:0A192F&height=120&section=footer" width="100%"/>
 </picture>
