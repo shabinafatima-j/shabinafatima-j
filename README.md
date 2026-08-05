@@ -5,13 +5,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=650&lines=ECE+student+%40+Capital+University+of+Science+%26+Tech;Building+an+AI-powered+multi-agent+security+framework;MAESTRO+%2B+DIRF+%C2%B7+Speaker+Recognition+%C2%B7+Threat+Analysis" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=ECE+student+%40+Capital+University+of+Science+%26+Tech;Building+an+AI-powered+multi-agent+security+framework;MAESTRO+%2B+DIRF+%C2%B7+Speaker+Recognition+%C2%B7+Threat+Analysis" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/shabinafatima-j?label=Followers&style=for-the-badge&color=F8BBD0&labelColor=0A192F"/>
-<img src="https://img.shields.io/github/stars/shabinafatima-j?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=0A192F"/>
-<img src="https://komarev.com/ghpvc/?username=shabinafatima-j&label=Profile%20Views&style=for-the-badge&color=F8BBD0&labelColor=0A192F"/>
+<img src="https://img.shields.io/github/followers/shabinafatima-j?label=Followers&style=for-the-badge&color=90E0EF&labelColor=0A192F"/>
+<img src="https://img.shields.io/github/stars/shabinafatima-j?label=Stars&style=for-the-badge&color=90E0EF&labelColor=0A192F"/>
+<img src="https://komarev.com/ghpvc/?username=shabinafatima-j&label=Profile%20Views&style=for-the-badge&color=90E0EF&labelColor=0A192F"/>
 
 </div>
 
@@ -35,7 +35,7 @@ Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Wor
 
 </td>
 <td width="35%" valign="top" align="center">
-<img src="https://placehold.co/300x300/0A192F/F8BBD0?text=your+photo" width="220" style="border-radius:50%;" />
+<img src="https://placehold.co/300x300/0A192F/90E0EF?text=your+photo&color=0A192F" width="220" style="border-radius:50%;" />
 </td>
 </tr>
 </table>
@@ -85,16 +85,16 @@ Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Wor
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shabina-fatima-a9ab4b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=F8BBD0"/></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=F8BBD0"/></a>
-<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=F8BBD0"/></a>
-<a href="https://tiktok.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/TikTok-0A192F?style=for-the-badge&logo=tiktok&logoColor=F8BBD0"/></a>
-<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-0A192F?style=for-the-badge&logo=youtube&logoColor=F8BBD0"/></a>
-<a href="mailto:shabina.fatima.j@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=F8BBD0"/></a>
+<a href="https://www.linkedin.com/in/shabina-fatima-a9ab4b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=90E0EF"/></a>
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=90E0EF"/></a>
+<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=90E0EF"/></a>
+<a href="https://tiktok.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/TikTok-0A192F?style=for-the-badge&logo=tiktok&logoColor=90E0EF"/></a>
+<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-0A192F?style=for-the-badge&logo=youtube&logoColor=90E0EF"/></a>
+<a href="mailto:shabina.fatima.j@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=90E0EF"/></a>
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:F8BBD0,100:0A192F&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:F8BBD0,100:0A192F&height=120&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:00B4D8,100:0A192F&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:00B4D8,100:0A192F&height=120&section=footer" width="100%"/>
 </picture>
