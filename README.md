@@ -64,23 +64,6 @@ I also have a strong interest in cybersecurity, and completed an internship in c
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/snake-dark.svg" width="90%" />
-
-</div>
-
-<!--
-  This section needs a GitHub Action to generate the animated snake from your contribution graph.
-  1. In this repo, create: .github/workflows/snake.yml  (contents provided separately)
-  2. It runs on a schedule, builds the SVG, and pushes it to an "output" branch
-  3. The <img> above then points at that branch's generated file
-  Action used: https://github.com/Platane/snk
--->
-
-<br>
 
 ## 💗 Let's Connect
 
