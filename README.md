@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=900&color=38B6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate+%40+CUST;Strong+interest+in+Cybersecurity;FYP%3A+Agentic+AI+%2B+Cybersecurity+%C2%B7+MAESTRO+%2B+DIRF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=2200&pause=700&color=38B6FF&center=true&vCenter=true&width=500&lines=Computer+Engineer;Agentic+AI;Cyber+Security;ML" alt="Typing SVG" />
 
 <br>
 
@@ -25,9 +25,9 @@
 
 I'm **Shabina Fatima** — a **Computer Engineering** graduate from **Capital University of Science and Technology (CUST)**, with a strong interest in **cybersecurity**.
 
-My Final Year Project was in **agentic AI and cybersecurity** — an AI-powered multi-agent security analysis and governance framework implementing the **MAESTRO** and **DIRF** frameworks, covering protocol governance (MCP · A2A · AP2/x402) and static security analysis. My pieces of it: the **Speaker Recognition Agent** and the **Security Analysis Agent**.
+My Final Year Project was in **agentic AI and cybersecurity** an AI-powered multi-agent security analysis and governance framework implementing the **MAESTRO** and **DIRF** frameworks, covering protocol governance (MCP · A2A · AP2) and static security analysis. Tested on locally built systems (Face recognition,speaker recognition and more)
 
-Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Workstation Pro + Kali Linux** to practice hands-on security work.
+I also have a strong interest in cybersecurity, and completed an internship in cybersecurity. I have knowledge spanning both **hardware architecture** and **software development** from embedded/hardware-level work to full software projects.
 
 - 🔭 Currently working on: *AI-Powered Multi-Agent Security & Governance Framework*
 - 🌱 Currently learning: *forensics tooling, multi-agent AI architectures*
@@ -46,16 +46,17 @@ Outside of coursework, I run a small forensics/cybersecurity lab on **VMware Wor
 
 <!-- ⚠️ Swap these Skill Icons for your real stack: https://skillicons.dev -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,linux,kali,vmware,wireshark,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,flutter,dart,linux,git,vscode&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Keil_%C2%B5Vision-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilog-0A192F?style=for-the-badge"/>
 </div>
 
 <br>
 
-## 🔥 GitHub Streak & Activity
+## 🔥 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabinafatima-j&theme=default&hide_border=true&background=0A192F&ring=38B6FF&fire=87CEEB&currStreakLabel=B3E5FC&sideLabels=B3E5FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B3E5FC" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabinafatima-j&bg_color=0A192F&color=B3E5FC&line=38B6FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
 
