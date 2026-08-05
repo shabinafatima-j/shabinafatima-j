@@ -25,7 +25,7 @@
 
 I'm **Shabina Fatima** — a **Computer Engineering** graduate from **Capital University of Science and Technology (CUST)**, with a strong interest in **cybersecurity**.
 
-My Final Year Project was in **agentic AI and cybersecurity** — an AI-powered multi-agent security analysis and governance framework implementing the **MAESTRO** and **DIRF** frameworks, covering protocol governance (MCP · A2A · AP2/x402) and static security analysis. My pieces of it: the **Speaker Recognition Agent** and the **Security Analysis Agent**.
+My Final Year Project was in **agentic AI and cybersecurity** — an AI-powered multi-agent security analysis and governance framework implementing the **MAESTRO** and **DIRF** frameworks, covering protocol governance (MCP · A2A · AP2/x402) and static security analysis. Tested on Locally built System **Speaker Recognition and Trancription System , Face Recognition System and more** and the **Compliance Analyzer**.
 
 I also have a strong interest in cybersecurity, and completed an internship in cybersecurity. I have knowledge spanning both **hardware architecture** and **software development** — from embedded/hardware-level work to full software projects.
 
@@ -35,7 +35,7 @@ I also have a strong interest in cybersecurity, and completed an internship in c
 
 </td>
 <td width="35%" valign="top" align="center">
-<img src="display%20picture.jpg" width="220" style="border-radius:50%; object-fit:cover;" />
+<img src="https://github.com/shabinafatima-j.png" width="220" style="border-radius:50%; object-fit:cover;" />
 </td>
 </tr>
 </table>
@@ -54,31 +54,17 @@ I also have a strong interest in cybersecurity, and completed an internship in c
 
 <br>
 
-## 🔥 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabinafatima-j&bg_color=0A192F&color=B3E5FC&line=38B6FF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
-
-</div>
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/snake-dark.svg" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/snake-dark.svg" width="90%" />
+</picture>
 
 </div>
-
-<!--
-  This section needs a GitHub Action to generate the animated snake from your contribution graph.
-  1. In this repo, create: .github/workflows/snake.yml  (contents provided separately)
-  2. It runs on a schedule, builds the SVG, and pushes it to an "output" branch
-  3. The <img> above then points at that branch's generated file
-  Action used: https://github.com/Platane/snk
--->
 
 <br>
 
@@ -87,10 +73,6 @@ I also have a strong interest in cybersecurity, and completed an internship in c
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shabina-fatima-a9ab4b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=B3E5FC"/></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=B3E5FC"/></a>
-<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=B3E5FC"/></a>
-<a href="https://tiktok.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/TikTok-0A192F?style=for-the-badge&logo=tiktok&logoColor=B3E5FC"/></a>
-<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-0A192F?style=for-the-badge&logo=youtube&logoColor=B3E5FC"/></a>
 <a href="mailto:shabina.fatima.j@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=B3E5FC"/></a>
 
 </div>
