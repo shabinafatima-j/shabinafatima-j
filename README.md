@@ -75,21 +75,6 @@ I also completed an internship in cybersecurity, and have knowledge spanning bot
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shabinafatima-j&show_icons=true&hide_border=true&hide_title=true&bg_color=0A192F&title_color=38B6FF&icon_color=38B6FF&text_color=B3E5FC&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabinafatima-j&layout=compact&hide_border=true&bg_color=0A192F&title_color=38B6FF&text_color=B3E5FC&langs_count=8" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=shabinafatima-j&hide_border=true&background=0A192F&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF&sideLabels=B3E5FC&currStreakNum=B3E5FC&sideNums=B3E5FC&dates=B3E5FC" />
-
-</div>
-
-<br>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -100,14 +85,12 @@ I also completed an internship in cybersecurity, and have knowledge spanning bot
 
 <br>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake.svg" width="90%" alt="github-snake"/>
+  <img src="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake.svg" width="90%" alt="contribution graph"/>
 </picture>
 
 </div>
