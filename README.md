@@ -100,22 +100,20 @@ I also completed an internship in cybersecurity, and have knowledge spanning bot
 
 <br>
 
-## 🎊 Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/shabinafatima-j/shabinafatima-j/output/github-contribution-grid-snake.svg" width="90%" alt="github-snake"/>
 </picture>
 
 </div>
 
-> ⚠️ The snake's colors come from the GitHub Action that renders it, not from this README. Add the workflow below (as `.github/workflows/snake.yml`) in the `shabinafatima-j/shabinafatima-j` repo to make it render **blue** instead of purple.
-
 <details>
-<summary>📄 <code>.github/workflows/snake.yml</code> (blue theme)</summary>
+<summary>📄 <code>.github/workflows/snake.yml</code></summary>
 
 ```yaml
 name: Generate Snake
@@ -138,10 +136,10 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: shabinafatima-j
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2338B6FF&color_dots=0A192F,0A192F,B3E5FC,38B6FF,38B6FF
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2338B6FF
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -152,7 +150,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After adding this file: go to the **Actions** tab in your `shabinafatima-j/shabinafatima-j` repo → **Generate Snake** → **Run workflow**. It creates an `output` branch with the SVGs, which is what the embed above points to.
+After adding this file: go to the **Actions** tab in your `shabinafatima-j/shabinafatima-j` repo → **Generate Snake** → **Run workflow**. It creates an `output` branch with the SVGs — that's what the embed above points to, and it's rebuilt from your real contribution graph every 12h.
 
 </details>
 
