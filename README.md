@@ -95,47 +95,15 @@ I also completed an internship in cybersecurity, and have knowledge spanning bot
 
 </div>
 
-<details>
-<summary>📄 <code>.github/workflows/snake.yml</code></summary>
+<br>
 
-```yaml
-name: Generate Snake
+## 📅 Contribution Graph
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
+<div align="center">
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: shabinafatima-j
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<img src="https://ghchart.rshah.org/38B6FF/shabinafatima-j" alt="shabinafatima-j's contribution graph" width="90%"/>
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After adding this file: go to the **Actions** tab in your `shabinafatima-j/shabinafatima-j` repo → **Generate Snake** → **Run workflow**. It creates an `output` branch with the SVGs — that's what the embed above points to, and it's rebuilt from your real contribution graph every 12h.
-
-</details>
+</div>
 
 <br>
 
