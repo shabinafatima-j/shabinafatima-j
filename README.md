@@ -97,15 +97,7 @@ I also completed an internship in cybersecurity, and have knowledge spanning bot
 
 <br>
 
-## 📅 Contribution Graph
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/38B6FF/shabinafatima-j" alt="shabinafatima-j's contribution graph" width="90%"/>
-
-</div>
-
-<br>
 
 ## 💗 Let's Connect
 
