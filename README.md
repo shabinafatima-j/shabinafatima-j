@@ -44,7 +44,7 @@ I also completed an internship in cybersecurity, and have knowledge spanning bot
 
 <br>
 
-## 🩵 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
