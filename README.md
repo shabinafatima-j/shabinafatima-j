@@ -23,7 +23,7 @@
 <tr>
 <td width="65%" valign="top">
 
-I'm **Shabina Fatima** — a **Computer Engineering** graduate from **Capital University of Science and Technology (CUST)**, with a strong interest in **cybersecurity**.
+I'm **Shabina Fatima**  a **Computer Engineering** graduate from **Capital University of Science and Technology (CUST)**, with a strong interest in **cybersecurity**.
 
 My Final Year Project was in **agentic AI and cybersecurity** — an AI-powered multi-agent security analysis and governance framework implementing the **MAESTRO** and **DIRF** frameworks, covering protocol governance (MCP · A2A · AP2/x402) and static security analysis. Tested on locally built **Speaker Recognition & Transcription**, **Face Recognition** systems, and a **Compliance Analyzer**.
 
