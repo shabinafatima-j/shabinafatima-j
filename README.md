@@ -29,7 +29,7 @@ My Final Year Project was in **agentic AI and cybersecurity** — an AI-powered 
 
 I also completed an internship in cybersecurity, and have knowledge spanning both **hardware architecture** and **software development** — from embedded/hardware-level work to full software projects.
 
-- 🔭 Currently working on: *AI-Powered Multi-Agent Security & Governance Framework*
+- 🔭 Final Year Project: *AI-Powered Multi-Agent Security & Governance Framework*
 - 🌱 Currently learning: *forensics tooling, multi-agent AI architectures*
 - 💬 Ask me about: *AI security, multi-agent systems, threat frameworks*
 
